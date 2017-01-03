@@ -1,2 +1,5 @@
 # hello-world
-first repository
+
+Hola!
+
+I am a painter, struggling to learn code
